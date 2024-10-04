@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|d:\\se310_.net\\websitequanlysanpham\\websitequanlysanpham\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|solutionrelative:websitequanlysanpham\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|d:\\se310_.net\\websitequanlysanpham\\websitequanlysanpham\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|solutionrelative:websitequanlysanpham\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|d:\\se310_.net\\websitequanlysanpham\\websitequanlysanpham\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|solutionrelative:websitequanlysanpham\\views\\catalog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|d:\\se310_.net\\websitequanlysanpham\\websitequanlysanpham\\models\\quanlysanphamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|solutionrelative:websitequanlysanpham\\models\\quanlysanphamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|d:\\se310_.net\\websitequanlysanpham\\websitequanlysanpham\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E97675-F206-45B1-86AD-457583435ECF}|WebsiteQuanLySanPham\\WebsiteQuanLySanPham.csproj|solutionrelative:websitequanlysanpham\\controllers\\catalogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteQuanLySanPham\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Views\\Product\\Index.cshtml*",
+              "RelativeToolTip": "WebsiteQuanLySanPham\\Views\\Product\\Index.cshtml*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T09:01:03.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuanLySanPhamContext.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Models\\QuanLySanPhamContext.cs",
+              "RelativeDocumentMoniker": "WebsiteQuanLySanPham\\Models\\QuanLySanPhamContext.cs",
+              "ToolTip": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Models\\QuanLySanPhamContext.cs",
+              "RelativeToolTip": "WebsiteQuanLySanPham\\Models\\QuanLySanPhamContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA+wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:37:05.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebsiteQuanLySanPham\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebsiteQuanLySanPham\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:33:34.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Views\\Catalog\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteQuanLySanPham\\Views\\Catalog\\Index.cshtml",
+              "ToolTip": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Views\\Catalog\\Index.cshtml",
+              "RelativeToolTip": "WebsiteQuanLySanPham\\Views\\Catalog\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T08:30:40.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogController.cs",
+              "DocumentMoniker": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Controllers\\CatalogController.cs",
+              "RelativeDocumentMoniker": "WebsiteQuanLySanPham\\Controllers\\CatalogController.cs",
+              "ToolTip": "D:\\SE310_.NET\\WebsiteQuanLySanPham\\WebsiteQuanLySanPham\\Controllers\\CatalogController.cs",
+              "RelativeToolTip": "WebsiteQuanLySanPham\\Controllers\\CatalogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T08:28:54.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
